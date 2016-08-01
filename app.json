@@ -1,0 +1,18 @@
+{
+  "name": "slurper",
+  "description": "Sluper slupers files",
+  "scripts": {
+    "postdeploy": "bin/start",
+    "pr-predestroy": "bin/stop"
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
